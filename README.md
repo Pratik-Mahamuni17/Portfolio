@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 Built using **HTML**, **CSS**, and **JavaScript**, this responsive website showcases my projects, internship experience, and resume.
 
 🔗 **Live Website:**  
-[https://pratik-mahamuni17.github.io/portfolio/](https://magical-kitten-418319.netlify.app/)
+[MyPortfolio](https://magical-kitten-418319.netlify.app/)
 
 📄 **Resume (Download from site):**  
 [Available on the homepage](https://pratik-mahamuni17.github.io/portfolio/)
