@@ -7,7 +7,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this responsive website showc
 [MyPortfolio](https://magical-kitten-418319.netlify.app/)
 
 📄 **Resume (Download from site):**  
-[Available on the homepage](https://pratik-mahamuni17.github.io/portfolio/)
+[Available on the homepage](https://magical-kitten-418319.netlify.app/)
 
 ---
 
